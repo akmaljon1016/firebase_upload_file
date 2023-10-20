@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "403587654599",
+    "project_id": "firebase-upload-file",
+    "storage_bucket": "firebase-upload-file.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403587654599:android:b2c2ac3b2a679f061c2fe2",
+        "android_client_info": {
+          "package_name": "com.example.firebase_upload_file"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeQvqBzQ0Yinwt5sS5kOXdpe8rStR25dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
